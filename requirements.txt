@@ -1,0 +1,4 @@
+streamlit
+yfinance>=0.2.44
+pandas
+numpy
